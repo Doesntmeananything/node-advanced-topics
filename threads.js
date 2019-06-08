@@ -2,7 +2,7 @@ const crypto = require("crypto");
 
 const start = Date.now();
 // Sample hashing functions where
-// we check how long it will take to run
+// we check how long they will take to run
 crypto.pbkdf2("a", "b", 100000, 512, "sha512", () => {
   console.log("1:", Date.now() - start);
 });
