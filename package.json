@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Doesntmeananything/node-advanced-topics/issues"
   },
-  "homepage": "https://github.com/Doesntmeananything/node-advanced-topics#readme"
+  "homepage": "https://github.com/Doesntmeananything/node-advanced-topics#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
