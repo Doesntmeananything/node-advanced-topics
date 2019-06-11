@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Doesntmeananything/node-advanced-topics#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "webworker-threads": "^0.7.17"
   }
 }
