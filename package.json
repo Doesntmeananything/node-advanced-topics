@@ -1,0 +1,20 @@
+{
+  "name": "node-advanced-topics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "threads.js",
+  "scripts": {
+    "start": "set UV_THREADPOOL_SIZE=5 & node threads.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doesntmeananything/node-advanced-topics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doesntmeananything/node-advanced-topics/issues"
+  },
+  "homepage": "https://github.com/Doesntmeananything/node-advanced-topics#readme"
+}
