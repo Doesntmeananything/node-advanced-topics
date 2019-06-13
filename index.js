@@ -1,4 +1,3 @@
-// Child that acts like a server
 const crypto = require("crypto");
 const express = require("express");
 const app = express();
